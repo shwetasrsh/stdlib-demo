@@ -4,7 +4,7 @@ This tutorial demonstrates how to use stdlib - the standard library for JavaScri
 
 ## Use Case
 
-Given a list containing details of students, we will construct a table which contains details of students and perform aggregate functions on the data.
+Given a list containing details of people, we will construct a table which contains details of people and perform aggregate functions on the data.
 
 ## Steps 
 
